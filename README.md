@@ -32,7 +32,7 @@ https://github.com/user-attachments/assets/e2e89ed4-ee51-4269-8c65-cbe82801f10a
 - **Tools:** Vim, Bash, Nmap, Aircrack-ng Suite, Netstat, Taskkill .......
 
 
-### 🚀 Certification Goal (right now): RHCSA
+### 🚀 Certification Goal (right now): RHCSA EX200
 I am currently preparing for the **Red Hat Certified System Administrator (RHCSA)** exam. My labs are focused on:
 - Configuring networking and hostname resolution.
 - Managing users, groups, and security permissions.
