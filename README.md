@@ -76,8 +76,7 @@ https://github.com/user-attachments/assets/29e2b948-d08c-4d4f-b56b-2556bd45b0a2
 </div>
 
 <div align="center">
-  <!-- The Streak Stats (Fixed Link) -->
-  <img src="https://streak-stats.demolab.com/?user=Blu3-Sky-Max&theme=tokyonight&hide_border=true" alt="Blu3 Sky Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Blu3-Sky-Max&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Blu3 Sky Streak" />
 </div>
 
 <div align="center">
