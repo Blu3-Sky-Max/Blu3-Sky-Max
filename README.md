@@ -39,8 +39,7 @@ I am a 3rd-year **Computer Engineering** student and a Linux enthusiast. I bridg
 
 ### 💻 Hardware Build: Framework 13
 *I chose the Framework 13 for its modularity, aligning with my engineering studies.*
-
-[INSERT YOUR FRAMEWORK VIDEO OR PICTURE HERE]
+file:///home/blue/Downloads/framework.mp4
 
 ---
 
