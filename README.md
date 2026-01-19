@@ -72,7 +72,7 @@ https://github.com/user-attachments/assets/29e2b948-d08c-4d4f-b56b-2556bd45b0a2
 
 <div align="center">
   <!-- GitHub Stats & Top Languages side by side -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Blu3-Sky-Max&show_icons=true&theme=tokyonight&hide_border=true" alt="Blu3 Sky Stats" />
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blu3-Sky-Max&layout=compact&theme=tokyonight&hide_border=true" alt="Blu3 Sky Languages"/>
 </div>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blu3-Sky-Max&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Blu3 Sky Languages" />
