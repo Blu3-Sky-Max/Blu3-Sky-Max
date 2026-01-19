@@ -59,6 +59,23 @@ https://github.com/user-attachments/assets/29e2b948-d08c-4d4f-b56b-2556bd45b0a2
 
 ---
 
+---
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Blu3-Sky-Max&show_icons=true&theme=tokyonight" alt="Blu3 Sky Stats" />
+  <h2>📊 GitHub Analytics</h2>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Blu3-Sky-Max&show_icons=true&theme=tokyonight&hide_border=true" alt="Blu3 Sky's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blu3-Sky-Max&layout=compact&theme=tokyonight&hide_border=true" alt="Blu3 Sky's Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Blu3-Sky-Max&theme=tokyonight&hide_border=true" alt="Blu3 Sky's Commit Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/productivity-graph?username=Blu3-Sky-Max&theme=tokyonight&hide_border=true" width="100%" alt="Blu3 Sky's Contribution Graph" />
 </div>
