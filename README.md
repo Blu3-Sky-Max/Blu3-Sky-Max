@@ -1,46 +1,49 @@
-# 🐧 Hi, I'm Usman O. Olanrewaju (Blu3 Sky)
+<div align="center">
+  <h1>🎓 Computer Engineering</h1>
+  <p><b>Systems Architect | Security Researcher | Linux Power User</b></p>
+  
+  <img src="https://img.shields.io/badge/Status-Nerd%20%26%20Jacked-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hardware-Framework%2013-blue?style=for-the-badge&logo=framework" />
+</div>
 
-### 🎓 Computer Engineering Student | Linux Enthusiast | Security Researcher | 
+---
 
-I am a *Computer Engineering*  3rd year student and a Linux power user. I focus on cross-platform security auditing, system automation, and hardware-level troubleshooting. I am a strong advocate for modular hardware and open-source systems.
+### 👋 About Me
+I am a 3rd-year **Computer Engineering** student and a Linux enthusiast. I bridge the gap between hardware and software by combining **C/C++ development** with enterprise-level **System Administration**. I don't just run commands; I investigate the "Zombie" processes behind them.
 
 ---
 
-### 💻 My Daily Driver: Framework 13
-I run **Fedora Workstation** on a **Framework 13** laptop. This setup allows me to combine high-performance Linux computing with modular, repairable hardware—perfect for an engineering and security workflow.
+### 🛠️ Technical Stack
 
-### 🛠️ Technical Skill Set
-- **Languages:** C/C++, Bash Scripting (Automation & Tooling).
-- **Security:** Wireless Auditing (Aircrack-ng), SSH/SFTP Pentesting.
-- **Admin Tools:** Nmap,Vim, Netstat, Taskkill, Systemctl........
+**Programming Languages**
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Bash](https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-- 
-### 🛠️ My Lab Stack:
-- **Primary Hardware:** Framework 13 (Fedora Workstation)
-- **Attack OS:** Kali Linux![op](https://github.com/user-attachments/assets/7ecd7275-c405-41df-8c4e-359041db0312)
-![wifi](https://github.com/user-attachments/assets/fd44f85d-fbda-49e8-9dd0-fdcae8a9ba0b)
+**Systems & Tools**
+![Fedora](https://img.shields.io/badge/fedora-%23293270.svg?style=for-the-badge&logo=fedora&logoColor=white) ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kali-linux&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 
-
-https://github.com/user-attachments/assets/9023534d-cbff-40b5-a95e-18b29a8524fc
-
-
-
-https://github.com/user-attachments/assets/e2e89ed4-ee51-4269-8c65-cbe82801f10a
-
-
-- **Targets:** Rocky Linux, Ubuntu (WSL2), Windows 11
-- **Tools:** Vim, Bash, Nmap, Aircrack-ng Suite, Netstat, Taskkill .......
-
-
-### 🚀 Certification Goal (right now): RHCSA EX200
-I am currently preparing for the **Red Hat Certified System Administrator (RHCSA)** exam. My labs are focused on:
-- Configuring networking and hostname resolution.
-- Managing users, groups, and security permissions.
-- Operating running systems (booting into different targets, identifying processes).
-- Understanding storage, file systems, and shell scripting.
-
+**Security Auditing**
+![Nmap](https://img.shields.io/badge/Nmap-white?style=for-the-badge&logo=nmap&logoColor=black) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
 ---
-*"I don't just run commands; I manage the enterprise infrastructure behind them."*
 
-[📁 Check out my Pentest Labs Repository](https://github.com/Blu3-Sky-Max/Pentest-Labs)
+### 🚀 Currently Exploring
+![RHCSA Candidate](https://img.shields.io/badge/RHCSA-Red%20Hat-red?style=for-the-badge&logo=red-hat&logoColor=white) ![Network Security](https://img.shields.io/badge/Security-Research-green?style=for-the-badge)
+
+---
+
+### 📡 Active Laboratories
+*   **[Pentest-Labs](https://github.com/Blu3-Sky-Max/Pentest-Labs):** Remote access exploitation and SSH security audits.
+*   **[Systems-Programming-Lab](https://github.com/Blu3-Sky-Max/Systems-Programming-Lab):** Low-level C/C++ logic and build automation.
+
+---
+
+### 💻 Hardware Build: Framework 13
+*I chose the Framework 13 for its modularity, aligning with my engineering studies.*
+
+[INSERT YOUR FRAMEWORK VIDEO OR PICTURE HERE]
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Blu3-Sky-Max&show_icons=true&theme=tokyonight" alt="Blu3 Sky Stats" />
+</div>
