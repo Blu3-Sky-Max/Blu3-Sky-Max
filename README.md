@@ -75,9 +75,6 @@ https://github.com/user-attachments/assets/29e2b948-d08c-4d4f-b56b-2556bd45b0a2
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blu3-Sky-Max&layout=compact&theme=tokyonight&hide_border=true" alt="Blu3 Sky Languages" />
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Blu3-Sky-Max&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Blu3 Sky Streak" />
-</div>
 
 <div align="center">
   <!-- Activity Graph (The one that is already working for you) -->
