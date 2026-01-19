@@ -44,6 +44,14 @@ I am a 3rd-year **Computer Engineering** student and a Linux enthusiast. I bridg
 https://github.com/user-attachments/assets/56b3d731-7695-47a1-b0f2-0a6ce01737c1 
 
 
+![Mounting   parting](https://github.com/user-attachments/assets/c9afc374-7d71-46c6-bb75-ea66ce61e4eb)
+
+
+
+
+
+
+
 https://github.com/user-attachments/assets/29e2b948-d08c-4d4f-b56b-2556bd45b0a2
 
 
