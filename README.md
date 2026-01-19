@@ -80,6 +80,6 @@ https://github.com/user-attachments/assets/29e2b948-d08c-4d4f-b56b-2556bd45b0a2
 
 <div align="center">
   <!-- Activity Graph (The big blue line chart) -->
- 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Blu3-Sky-Max&theme=tokyo-night&area=true" width="100%" alt="Blu3 Sky Activity" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blu3-Sky-Max&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Blu3 Sky Languages" />
 </div>
