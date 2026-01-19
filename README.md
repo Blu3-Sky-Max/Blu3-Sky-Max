@@ -63,23 +63,26 @@ https://github.com/user-attachments/assets/29e2b948-d08c-4d4f-b56b-2556bd45b0a2
 ---
 
 ---
+---
 
 <div align="center">
   <h2>📊 GitHub Analytics</h2>
 </div>
 
 <div align="center">
-  <!-- GitHub Stats -->
+  <!-- General Stats Card -->
   <img src="https://github-readme-stats.vercel.app/api?username=Blu3-Sky-Max&show_icons=true&theme=tokyonight&hide_border=true" alt="Blu3 Sky Stats" />
+  
+  <!-- Top Languages Card (ONE copy only) -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blu3-Sky-Max&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Blu3 Sky Languages" />
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blu3-Sky-Max&layout=compact&theme=tokyonight&hide_border=true" alt="Blu3 Sky Languages"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blu3-Sky-Max&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Blu3 Sky Languages" />
 </div>
 
+<div align="center">
+  <!-- Commit Streak Card -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Blu3-Sky-Max&theme=tokyonight&hide_border=true" alt="Blu3 Sky's Commit Streak" />
+</div>
 
 <div align="center">
-  <!-- Activity Graph (The one that is already working for you) -->
+  <!-- Activity Graph (The Line Chart) -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Blu3-Sky-Max&theme=tokyo-night&area=true" width="100%" alt="Blu3 Sky Activity" />
 </div>
