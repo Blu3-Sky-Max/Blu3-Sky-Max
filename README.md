@@ -62,24 +62,25 @@ https://github.com/user-attachments/assets/29e2b948-d08c-4d4f-b56b-2556bd45b0a2
 ---
 ---
 
+---
+
 <div align="center">
   <h2>📊 GitHub Analytics</h2>
 </div>
 
 <div align="center">
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Blu3-Sky-Max&show_icons=true&theme=tokyonight&hide_border=true" alt="Blu3 Sky's GitHub Stats" />
-  
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blu3-Sky-Max&layout=compact&theme=tokyonight&hide_border=true" alt="Blu3 Sky's Top Languages" />
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Blu3-Sky-Max&show_icons=true&theme=tokyonight&hide_border=true" alt="Blu3 Sky Stats" />
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blu3-Sky-Max&layout=compact&theme=tokyonight&hide_border=true" alt="Blu3 Sky Languages" />
 </div>
 
 <div align="center">
-  <!-- Commit Streak Card -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Blu3-Sky-Max&theme=tokyonight&hide_border=true" alt="Blu3 Sky's Commit Streak" />
+  <!-- The Streak Stats (Fixed Link) -->
+  <img src="https://streak-stats.demolab.com/?user=Blu3-Sky-Max&theme=tokyonight&hide_border=true" alt="Blu3 Sky Streak" />
 </div>
 
 <div align="center">
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Blu3-Sky-Max&theme=tokyo-night&area=true" width="100%" alt="Blu3 Sky's Activity Graph" />
+  <!-- Activity Graph (The one that is already working for you) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Blu3-Sky-Max&theme=tokyo-night&area=true" width="100%" alt="Blu3 Sky Activity" />
 </div>
