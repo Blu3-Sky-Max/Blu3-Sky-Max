@@ -32,7 +32,7 @@ I am a 3rd-year **Computer Engineering** student and a Linux enthusiast. I bridg
 ---
 
 ### 📡 Active Laboratories
-*   **[Systems-Programming-Lab](https://github.com/Blu3-Sky-Max/Systems-Programming-Lab):** Low-level C/C++ logic and build automation.
+*   **[Systems-Programming-Lab](https://github.com/Blu3-Sky-Max/Systems-Programming-Lab):** Low-level C/C++, Bash scripting logic and build automation.
 *   **[Linux-Admin-RHCSA](https://github.com/Blu3-Sky-Max/Linux-Admin-RHCSA):** Enterprise storage management and RHCSA labs.
 *   **[Pentest-Labs](https://github.com/Blu3-Sky-Max/Pentest-Labs):** Remote access exploitation and SSH security audits.
 
