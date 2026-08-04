@@ -1,17 +1,27 @@
-<div align="center">
-  <h1>🎓 Computer Engineering</h1>
-  <p><b>Systems Architect | Security Researcher | Linux Power User</b></p>
-  
-  <img src="https://img.shields.io/badge/Status-Nerd%20%26%20Jacked-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Hardware-Framework%2013-blue?style=for-the-badge&logo=framework" />
-</div>
+<h0 align="center">🎓 Computer Engineering</h1>
+
+<p align="center">
+<b>Systems Engineer</b> | <b>RHCSA Certified</b> | <b>Linux Power User</b>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/STATUS-NERD_%26_JACKED-2ea44f?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RHCSA-CERTIFIED-EE0000?style=for-the-badge&logo=redhat&logoColor=white" />
+<img src="https://img.shields.io/badge/HARDWARE-FRAMEWORK_13-0091FF?style=for-the-badge" />
+</p>
 
 ---
 
-### 👋 About Me
-I am a 3rd-year **Computer Engineering** student and a Linux enthusiast. I bridge the gap between hardware and software by combining **C/C++ development** with enterprise-level **System Administration**. I don't just run commands; I investigate the "Zombie" processes behind them.
+## 👋 About Me
+
+I'm a 3rd-year **Computer Engineering** student and a Linux systems engineer. I bridge hardware and software by combining **C/C++ development** with enterprise-grade **Linux systems administration**. I don't just run commands — I read the man pages, break things on purpose, and rebuild them until I understand every line.
+
+**RHCSA Certified (RHEL 10)** — scored 237/300, validating hands-on skills in LVM, SELinux, NFS/AutoFS, firewalld, systemd, and enterprise Linux administration.
+
+Currently deep in systems programming — working through *Programming in C* (Kochan) and GDB debugging as deliberate groundwork for a private PipeWire-based audio daemon project.
 
 ---
+
 
 ### 🛠️ Technical Stack
 
@@ -26,10 +36,13 @@ I am a 3rd-year **Computer Engineering** student and a Linux enthusiast. I bridg
 
 ---
 
-### 🚀 Currently Exploring
-![RHCSA Candidate](https://img.shields.io/badge/RHCSA-Red%20Hat-red?style=for-the-badge&logo=red-hat&logoColor=white) ![Network Security](https://img.shields.io/badge/Security-Research-green?style=for-the-badge)
+
+## 📜 Certifications
+
+- 🎖️  **Red Hat Certified System Administrator (RHCSA)** — RHEL 10 — Score: 237/300 — 2026
 
 ---
+
 
 ### 📡 Active Laboratories
 *   **[Systems-Programming-Lab](https://github.com/Blu3-Sky-Max/Systems-Programming-Lab):** Low-level C/C++, Bash scripting logic and build automation.
