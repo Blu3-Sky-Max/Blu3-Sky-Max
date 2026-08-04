@@ -37,7 +37,7 @@ I'm a 3rd-year **Computer Engineering** student and a Linux systems engineer. I 
 
 ## 📜 Certifications
 
-- 🎖️  **Red Hat Certified System Administrator (RHCSA)** — RHEL 10 — Score: 237/300 — 2026
+- 🎖️  **Red Hat Certified System Administrator (RHCSA)**  — 2026
 
 ---
 
