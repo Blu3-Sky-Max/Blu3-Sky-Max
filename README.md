@@ -1,4 +1,4 @@
-                   <h0 align="center">🎓 Computer Engineering</h1>
+<h0 align="center">             🎓 Computer Engineering</h1>
 
 <p align="center">
 <b>Systems Engineer</b> | <b>RHCSA Certified</b> | <b>Linux Power User</b>
