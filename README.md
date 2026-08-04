@@ -1,4 +1,4 @@
-<h0 align="center">             🎓 Computer Engineering</h1>
+<h1 align="center">🎓 Computer Engineering</h1>
 
 <p align="center">
 <b>Systems Engineer</b> | <b>RHCSA Certified</b> | <b>Linux Power User</b>
@@ -16,9 +16,7 @@
 
 I'm a 3rd-year **Computer Engineering** student and a Linux systems engineer. I bridge hardware and software by combining **C/C++ development** with enterprise-grade **Linux systems administration**. I don't just run commands — I read the man pages, break things on purpose, and rebuild them until I understand every line.
 
-**RHCSA Certified (RHEL 10)** — scored 237/300, validating hands-on skills in LVM, SELinux, NFS/AutoFS, firewalld, systemd, and enterprise Linux administration.
-
-Currently deep in systems programming — working through *Programming in C* (Kochan) and GDB debugging as deliberate groundwork for a private PipeWire-based audio daemon project.
+**RHCSA Certified** — validating hands-on skills in LVM, SELinux, NFS/AutoFS, firewalld, systemd, and enterprise Linux administration.
 
 ---
 
