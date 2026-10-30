@@ -22,21 +22,6 @@ I'm a final-year **Computer Engineering** student at Altınbaş University (Ista
 
 ---
 
-## 🔥 Featured Project: SOD
-
-**[SOD: Context-Aware Audio Orchestrator for Linux](https://github.com/Blu3-Sky-Max/SOD)**
-A PipeWire-based audio daemon written in C. Apply a profile with `sod --profile <name>` and it adapts the system to the situation.
-
-- **Profiles** (Focus, Gaming, Meeting, Night, Library, Office) set sink and mic volume
-- **Newest-wins ducking:** when a new app starts playing, other running apps are muted and restored when it stops
-- **Mic-aware auto-mute:** playback is muted while a capture stream is active
-- **Debounced state tracking** using PipeWire's own event-loop timers
-- Debugged with `gdb`, `coredumpctl` and `valgrind`
-- Tested with the laptop speaker, wired headset, AirPods Max and an external monitor
-
-**Next:** audio routing, bass EQ and DSP via PipeWire filters.
-
----
 
 ### 🛠️ Technical Stack
 
